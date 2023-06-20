@@ -43,7 +43,7 @@ The model can represent a variety of self-similar, fractal structures in both sp
 - 2D Fractals embedded in 3D space
 - Full 3D fractals
 - Fractals existing on curved surfaces or within curved spaces
-- Hypothetical fractal structures within spacetime
+- Fractal structures within spacetime
 
 ## Key Benefits
 
