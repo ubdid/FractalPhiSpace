@@ -1,7 +1,7 @@
 # FractalPhiSpace
 Fractal Spacetime Vector Matrix Model
 
-# Fractal Spacetime Vector Matrix Model
+# 5-dimensional tensor.
 
 This repository contains an exploration of a mathematical model that leverages fractal geometry and the golden ratio (Φ) to navigate multi-dimensional spaces.
 
