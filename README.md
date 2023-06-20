@@ -17,7 +17,7 @@ The Golden Tetrahedron forms the basis of the model, implemented as a multi-dime
 - The fourth dimension signifies the scale factor, denoting 'depth' within the fractal structure.
 - The fifth dimension embodies the direction vector, guiding 'travel' through the fractal space.
 
-##Incommensurable Model
+## Incommensurable Model
 
 This model's full complexity surpasses traditional computational boundaries.
 
