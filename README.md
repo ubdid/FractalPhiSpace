@@ -47,4 +47,4 @@ The model can represent a variety of self-similar, fractal structures in both sp
 
 ## Key Benefits
 
-This unique approach (might) offer potential to explore complex fractal designs without the computational drawbacks associated with traditional algorithms. The model is adaptable to a multitude of applications, creating opportunities for innovation in both scientific and digital art communities.
+This technique, if implemented correctly, has the potential to address the computational constraints often encountered when working with traditional fractal algorithms, thanks to its reliance on optimized geometric calculations rather than brute force methods. Its effectiveness in exploring complex fractal designs remains to be tested experimentally. The model is adaptable to a multitude of applications, creating opportunities for innovation in both scientific and digital art communities.
